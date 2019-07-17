@@ -1,1 +1,1 @@
-[Play](https://github.com/Gev76/Tetris)
+[Play](https://gev76.github.io/Tetris/)
