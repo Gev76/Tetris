@@ -1,3 +1,1 @@
-#Tetris
-
-This game is made for you!
+[Play](https://github.com/Gev76/Tetris)
